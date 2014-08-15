@@ -1,0 +1,5 @@
+
+.idea/
+bin/
+pkg/
+reformat_gene_info.iml
